@@ -1,12 +1,14 @@
 <annotation>
 	<folder>AHS</folder>
 	<filename>PER178.jpg</filename>
-	<path>AHS</path>
-	<source><database>Unknown</database></source>
+	<path>D:\Machine Learning Projects\Abdomial_AHS_Project\AHS\PER178.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
 	<size>
 		<width>512</width>
 		<height>512</height>
-		<depth>3</depth>
+		<depth>1</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
@@ -15,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>269</xmin>
-			<ymin>294</ymin>
-			<xmax>232</xmax>
-			<ymax>258</ymax>
+			<xmin>267</xmin>
+			<ymin>232</ymin>
+			<xmax>294</xmax>
+			<ymax>259</ymax>
 		</bndbox>
 	</object>
 </annotation>

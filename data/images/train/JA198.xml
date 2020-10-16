@@ -1,12 +1,14 @@
 <annotation>
 	<folder>AHS</folder>
 	<filename>JA198.jpg</filename>
-	<path>AHS</path>
-	<source><database>Unknown</database></source>
+	<path>D:\Machine Learning Projects\Abdomial_AHS_Project\AHS\JA198.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
 	<size>
 		<width>512</width>
 		<height>512</height>
-		<depth>3</depth>
+		<depth>1</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
@@ -16,8 +18,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>251</xmin>
-			<ymin>277</ymin>
-			<xmax>265</xmax>
+			<ymin>265</ymin>
+			<xmax>277</xmax>
 			<ymax>291</ymax>
 		</bndbox>
 	</object>

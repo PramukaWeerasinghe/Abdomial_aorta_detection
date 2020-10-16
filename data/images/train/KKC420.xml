@@ -1,12 +1,14 @@
 <annotation>
 	<folder>AHS</folder>
 	<filename>KKC420.jpg</filename>
-	<path>AHS</path>
-	<source><database>Unknown</database></source>
+	<path>D:\Machine Learning Projects\Abdomial_AHS_Project\AHS\KKC420.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
 	<size>
 		<width>512</width>
 		<height>512</height>
-		<depth>3</depth>
+		<depth>1</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
@@ -15,9 +17,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>252</xmin>
-			<ymin>273</ymin>
-			<xmax>247</xmax>
+			<xmin>250</xmin>
+			<ymin>244</ymin>
+			<xmax>274</xmax>
 			<ymax>268</ymax>
 		</bndbox>
 	</object>
